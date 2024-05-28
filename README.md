@@ -8,16 +8,16 @@ I'm a java developer...
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/gautam1497_/)
 
 
-# Hi, I'm Gautam! 👋 Currently I am pursuing Bachelor Of Engineering in CSE
+# Hi, I'm Gautam! 👋 Currently I am pursuing a Bachelor Of Engineering in CSE
 
 
 🧠 I'm currently learning DSA in JAVA
 
 🤔 I'm looking for help with Advance DSA
 
-💬 Ask me about Basic of DSA and JAVA , Web development
+💬 Ask me about Basic of DSA, JAVA, Web development
 
-📫 Reach me through Linkedin
+📫 You can reach me through Linkedin...
 
 ## 🛠 Skills
 HTML, CSS, JAVA, SQL, Python...
